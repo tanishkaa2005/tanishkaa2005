@@ -1,15 +1,6 @@
 # Hi 👋, I'm Tanishka Raghuwanshi
-
-### Aspiring Web Developer, ML Enthusiast, and CSE student passionate about creating clean, responsive web interfaces. I’m also exploring Machine Learning and Data Science, focusing on core algorithms, data preprocessing, and visualization.
-
-ocs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a></p>
-
- 📫 How to reach me
- **tanishka.raghuwanshi05@gmail.com**
-
-
-<h1 align="center">Hi 👋, I'm Tanishka Raghuwanshi</h1>
 <h3 align="center">Computer Science Engineering student passionate about Full-Stack Development, Machine Learning, and Big Data Systems. Experienced in building AI-powered applications, real-time analytics pipelines, and scalable ML solutions using React, Node.js, Python, Kafka, and PyTorch. Interested in solving real-world problems through intelligent systems, data-driven applications, and modern cloud-native technologies.</h3>
+
 
 - 📫 How to reach me **tanishka.raghuwanshi09@gmail.com**
 
